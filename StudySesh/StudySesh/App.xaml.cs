@@ -8,7 +8,7 @@ namespace StudySesh
 		{
 			InitializeComponent();
 
-			MainPage = new StudySeshPage();
+			MainPage = new addSeshPage();
 		}
 
 		protected override void OnStart()
